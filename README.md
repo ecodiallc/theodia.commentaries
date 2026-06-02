@@ -53,15 +53,15 @@
 | Peake | Peake commentary on the Bible |
 | PHC  | Exell Preacher's Complete Homiletical Commentary |
 | Poole | English Annotations by Matthew Poole |
-| Psalms | |
-| Riley | |
+| Psalms | The Treasury of David |
+| Riley | The Bible of the Expositor and the Evangelist |
 | Romans-JGM | Lets Revel in Romans By John G. Mitchell |
-| SBLGNT-APP | |
+| SBLGNT-APP | SBLGNT Critical Apparatus |
 | SBLGNTvar | SBLGNT textual variants |
 | Sermon Bible | The Sermon Bible |
 | SGNT | Students Guide to NT |
 | Summ-c | Summarized Bible Commentary |
-| Sutcliffe | |
+| Sutcliffe | A Commentary on the Old and New Testaments by Joseph Sutcliffe |
 | TGC  | The Gospels Compared |
 | TLV  | Tree of Life Version |
 | ToD  | Treasury of David |
