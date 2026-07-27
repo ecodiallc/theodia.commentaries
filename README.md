@@ -12,6 +12,7 @@
 | BKC  | Bible Knowledge Commentary |
 | Bridgeway | Bridgeway Bible Commentary |
 | BSNTEN | The Bible Study NT Explanatory Notes |
+| bSummary | Book Summary |
 | C_H_Mackintosh | Notes on the Pentateuch |
 | CBNotes | The Companion Bible Notes |
 | CJB  | Complete Jewish Bible |
