@@ -1,3 +1,6 @@
-
 .DS_Store
 ._README.md
+
+# Build artifacts (intermediate JSON files used during commentary synthesis)
+/build/
+scripts/
