@@ -21,7 +21,7 @@
       "name": "Bible Book Summary",
       "description": "bSummary - Bible Book Summary",
       "version": "1.0.0",
-      "storageName": "bsummary_bible_book_summary",
+      "storageName": "bSummary",
       "code": "bSummary",
       "shortName": "Summary",
       "fullName": "Bible Book Summary"
@@ -33,7 +33,7 @@
       "name": "Apologists Bible Commentary",
       "description": "Apologists Bible Commentary",
       "version": "1.0.0",
-      "storageName": "cabc_apologists_bible_commentary",
+      "storageName": "cABC",
       "code": "cABC",
       "shortName": "ABC",
       "fullName": "Apologists Bible Commentary"
@@ -45,7 +45,7 @@
       "name": "Allusions to the NT in the ANF",
       "description": "Allusions to the NT in the ANF",
       "version": "1.0.0",
-      "storageName": "canf_allusions_to_the_nt_in_the_anf",
+      "storageName": "cANF",
       "code": "cANF",
       "shortName": "ANF",
       "fullName": "Allusions to the NT in the ANF"
@@ -57,7 +57,7 @@
       "name": "A Students Guide to New Testament",
       "description": "A Students Guide to New Testament",
       "version": "1.0.0",
-      "storageName": "casgtnt_a_students_guide_to_new_testament",
+      "storageName": "cASGTNT",
       "code": "cASGTNT",
       "shortName": "ASGTNT",
       "fullName": "A Students Guide to New Testament"
@@ -69,7 +69,7 @@
       "name": "Bonnells Combined Word Book Commentary",
       "description": "Bonnells Combined Word Book Commentary",
       "version": "1.0.0",
-      "storageName": "cbcw_bonnells_combined_word_book_commentary",
+      "storageName": "cBCW",
       "code": "cBCW",
       "shortName": "BCW",
       "fullName": "Bonnells Combined Word Book Commentary"
@@ -81,7 +81,7 @@
       "name": "Exell Biblical Illustrator",
       "description": "Exell Biblical Illustrator",
       "version": "1.0.0",
-      "storageName": "cbi_exell_biblical_illustrator",
+      "storageName": "cBI",
       "code": "cBI",
       "shortName": "BI",
       "fullName": "Exell Biblical Illustrator"
@@ -93,7 +93,7 @@
       "name": "Bible Knowledge Commentary",
       "description": "Bible Knowledge Commentary",
       "version": "1.0.0",
-      "storageName": "cbkc_bible_knowledge_commentary",
+      "storageName": "cBKC",
       "code": "cBKC",
       "shortName": "BKC",
       "fullName": "Bible Knowledge Commentary"
@@ -105,7 +105,7 @@
       "name": "The Bible Study NT Explanatory Notes",
       "description": "The Bible Study NT Explanatory Notes",
       "version": "1.0.0",
-      "storageName": "cbsnten_the_bible_study_nt_explanatory_notes",
+      "storageName": "cBSNTEN",
       "code": "cBSNTEN",
       "shortName": "BSNTEN",
       "fullName": "The Bible Study NT Explanatory Notes"
@@ -117,7 +117,7 @@
       "name": "Berean Interlinear Bible",
       "description": "Berean Interlinear Bible",
       "version": "1.0.0",
-      "storageName": "cberean_berean_interlinear_bible",
+      "storageName": "cBerean",
       "code": "cBerean",
       "shortName": "Berean",
       "fullName": "Berean Interlinear Bible"
@@ -129,7 +129,7 @@
       "name": "Bible Pictures",
       "description": "Bible Pictures",
       "version": "1.0.0",
-      "storageName": "cbiblepic_bible_pictures",
+      "storageName": "cBiblePic",
       "code": "cBiblePic",
       "shortName": "BiblePic",
       "fullName": "Bible Pictures"
@@ -141,7 +141,7 @@
       "name": "Bridgeway Bible Commentary",
       "description": "Bridgeway Bible Commentary",
       "version": "1.0.0",
-      "storageName": "cbridgeway_bridgeway_bible_commentary",
+      "storageName": "cBridgeway",
       "code": "cBridgeway",
       "shortName": "Bridgeway",
       "fullName": "Bridgeway Bible Commentary"
@@ -153,7 +153,7 @@
       "name": "The Companion Bible Notes",
       "description": "The Companion Bible Notes",
       "version": "1.0.0",
-      "storageName": "ccbnotes_the_companion_bible_notes",
+      "storageName": "cCBNotes",
       "code": "cCBNotes",
       "shortName": "CBNotes",
       "fullName": "The Companion Bible Notes"
@@ -165,7 +165,7 @@
       "name": "Complete Jewish Bible",
       "description": "Complete Jewish Bible",
       "version": "1.0.0",
-      "storageName": "ccjb_complete_jewish_bible",
+      "storageName": "cCJB",
       "code": "cCJB",
       "shortName": "CJB",
       "fullName": "Complete Jewish Bible"
@@ -177,7 +177,7 @@
       "name": "Church pulpit commentary",
       "description": "Church pulpit commentary",
       "version": "1.0.0",
-      "storageName": "ccpc_church_pulpit_commentary",
+      "storageName": "cCPC",
       "code": "cCPC",
       "shortName": "CPC",
       "fullName": "Church pulpit commentary"
@@ -189,7 +189,7 @@
       "name": "Through the Bible",
       "description": "Through the Bible",
       "version": "1.0.0",
-      "storageName": "ccsm_through_the_bible",
+      "storageName": "cCSm",
       "code": "cCSm",
       "shortName": "CSm",
       "fullName": "Through the Bible"
@@ -201,7 +201,7 @@
       "name": "Notes on the Pentateuch",
       "description": "Notes on the Pentateuch",
       "version": "1.0.0",
-      "storageName": "cc_h_mackintosh_notes_on_the_pentateuch",
+      "storageName": "cC_H_Mackintosh",
       "code": "cC_H_Mackintosh",
       "shortName": "C_H_Mackintosh",
       "fullName": "Notes on the Pentateuch"
@@ -213,7 +213,7 @@
       "name": "Daily Study Bible NT",
       "description": "Daily Study Bible NT",
       "version": "1.0.0",
-      "storageName": "cdsbnt_daily_study_bible_nt",
+      "storageName": "cDSBNT",
       "code": "cDSBNT",
       "shortName": "DSBNT",
       "fullName": "Daily Study Bible NT"
@@ -225,7 +225,7 @@
       "name": "Dakes Study Notes",
       "description": "Dakes Study Notes",
       "version": "1.0.0",
-      "storageName": "cdakes_dakes_study_notes",
+      "storageName": "cDakes",
       "code": "cDakes",
       "shortName": "Dakes",
       "fullName": "Dakes Study Notes"
@@ -237,7 +237,7 @@
       "name": "Expositors Greek Testament",
       "description": "Expositors Greek Testament",
       "version": "1.0.0",
-      "storageName": "cexp_gnt_expositors_greek_testament",
+      "storageName": "cexp_gnt",
       "code": "cExp-GNT",
       "shortName": "Exp-GNT",
       "fullName": "Expositors Greek Testament"
@@ -249,7 +249,7 @@
       "name": "Expositors Dictionary of Text",
       "description": "Expositors Dictionary of Text",
       "version": "1.0.0",
-      "storageName": "cexpositors_expositors_dictionary_of_text",
+      "storageName": "cExpositors",
       "code": "cExpositors",
       "shortName": "Expositors",
       "fullName": "Expositors Dictionary of Text"
@@ -261,7 +261,7 @@
       "name": "Greek New Testament textual variants",
       "description": "Greek New Testament textual variants",
       "version": "1.0.0",
-      "storageName": "cgntvar_greek_new_testament_textual_variants",
+      "storageName": "cGNTvar",
       "code": "cGNTvar",
       "shortName": "GNTvar",
       "fullName": "Greek New Testament textual variants"
@@ -273,7 +273,7 @@
       "name": "Annotated bible by gaebelin",
       "description": "Annotated bible by gaebelin",
       "version": "1.0.0",
-      "storageName": "cgaebelinab_annotated_bible_by_gaebelin",
+      "storageName": "cGaebelinAB",
       "code": "cGaebelinAB",
       "shortName": "GaebelinAB",
       "fullName": "Annotated bible by gaebelin"
@@ -285,7 +285,7 @@
       "name": "Ganns Commentary",
       "description": "Ganns Commentary",
       "version": "1.0.0",
-      "storageName": "cgann_ganns_commentary",
+      "storageName": "cGann",
       "code": "cGann",
       "shortName": "Gann",
       "fullName": "Ganns Commentary"
@@ -297,7 +297,7 @@
       "name": "Gnomon of the New Testament",
       "description": "Gnomon of the New Testament",
       "version": "1.0.0",
-      "storageName": "cgnomon_gnomon_of_the_new_testament",
+      "storageName": "cGnomon",
       "code": "cGnomon",
       "shortName": "Gnomon",
       "fullName": "Gnomon of the New Testament"
@@ -309,7 +309,7 @@
       "name": "Godbey Commentary On NT",
       "description": "Godbey Commentary On NT",
       "version": "1.0.0",
-      "storageName": "cgodbeycnt_godbey_commentary_on_nt",
+      "storageName": "cGodbeyCNT",
       "code": "cGodbeyCNT",
       "shortName": "GodbeyCNT",
       "fullName": "Godbey Commentary On NT"
@@ -321,7 +321,7 @@
       "name": "Godets commentary on Luke, John, Romans, 1 Corinthians",
       "description": "Godets commentary on Luke, John, Romans, 1 Corinthians",
       "version": "1.0.0",
-      "storageName": "cgodet_godets_commentary_on_luke_john_romans_1_corinthians",
+      "storageName": "cGodet",
       "code": "cGodet",
       "shortName": "Godet",
       "fullName": "Godets commentary on Luke, John, Romans, 1 Corinthians"
@@ -333,7 +333,7 @@
       "name": "Guzik Commentary",
       "description": "Guzik Commentary",
       "version": "1.0.0",
-      "storageName": "cguzik_guzik_commentary",
+      "storageName": "cGuzik",
       "code": "cGuzik",
       "shortName": "Guzik",
       "fullName": "Guzik Commentary"
@@ -345,7 +345,7 @@
       "name": "Holy Gospels in One",
       "description": "Holy Gospels in One",
       "version": "1.0.0",
-      "storageName": "chgio_holy_gospels_in_one",
+      "storageName": "cHGIO",
       "code": "cHGIO",
       "shortName": "HGIO",
       "fullName": "Holy Gospels in One"
@@ -357,7 +357,7 @@
       "name": "James Haldanes Exposition of Hebrews",
       "description": "James Haldanes Exposition of Hebrews",
       "version": "1.0.0",
-      "storageName": "chaldane_james_haldanes_exposition_of_hebrews",
+      "storageName": "cHaldane",
       "code": "cHaldane",
       "shortName": "Haldane",
       "fullName": "James Haldanes Exposition of Hebrews"
@@ -369,7 +369,7 @@
       "name": "The Great Texts of the Bible",
       "description": "The Great Texts of the Bible",
       "version": "1.0.0",
-      "storageName": "chastingsgtb_the_great_texts_of_the_bible",
+      "storageName": "cHastingsGTB",
       "code": "cHastingsGTB",
       "shortName": "HastingsGTB",
       "fullName": "The Great Texts of the Bible"
@@ -381,7 +381,7 @@
       "name": "Christology of the Old Testament",
       "description": "Christology of the Old Testament",
       "version": "1.0.0",
-      "storageName": "chengstenberg_christology_of_the_old_testament",
+      "storageName": "cHengstenberg",
       "code": "cHengstenberg",
       "shortName": "Hengstenberg",
       "fullName": "Christology of the Old Testament"
@@ -405,7 +405,7 @@
       "name": "Illustrated NT",
       "description": "Illustrated NT",
       "version": "1.0.0",
-      "storageName": "cill_nt_illustrated_nt",
+      "storageName": "cill_nt",
       "code": "cILL-NT",
       "shortName": "ILL-NT",
       "fullName": "Illustrated NT"
@@ -417,7 +417,7 @@
       "name": "In The Word Study Bible",
       "description": "In The Word Study Bible",
       "version": "1.0.0",
-      "storageName": "citwsb_in_the_word_study_bible",
+      "storageName": "cITWSB",
       "code": "cITWSB",
       "shortName": "ITWSB",
       "fullName": "In The Word Study Bible"
@@ -429,7 +429,7 @@
       "name": "Jewish Encyclopedia 1901-1906",
       "description": "Jewish Encyclopedia 1901-1906",
       "version": "1.0.0",
-      "storageName": "cje_tnk_jewish_encyclopedia_1901_1906",
+      "storageName": "cje_tnk",
       "code": "cJE-TNK",
       "shortName": "JE-TNK",
       "fullName": "Jewish Encyclopedia 1901-1906"
@@ -441,7 +441,7 @@
       "name": "J. Hampton Keathley III Studies in Revelation",
       "description": "J. Hampton Keathley III Studies in Revelation",
       "version": "1.0.0",
-      "storageName": "ckeathley_j_hampton_keathley_iii_studies_in_revelation",
+      "storageName": "cKeathley",
       "code": "cKeathley",
       "shortName": "Keathley",
       "fullName": "J. Hampton Keathley III Studies in Revelation"
@@ -453,7 +453,7 @@
       "name": "Introductory Lectures Commentary by William Kelly",
       "description": "Introductory Lectures Commentary by William Kelly",
       "version": "1.0.0",
-      "storageName": "ckelly_introductory_lectures_commentary_by_william_kelly",
+      "storageName": "cKelly",
       "code": "cKelly",
       "shortName": "Kelly",
       "fullName": "Introductory Lectures Commentary by William Kelly"
@@ -465,7 +465,7 @@
       "name": "King Comments",
       "description": "King Comments",
       "version": "1.0.0",
-      "storageName": "ckingcmts_en_king_comments",
+      "storageName": "ckingcmts_en",
       "code": "cKingCmts-EN",
       "shortName": "KingCmts-EN",
       "fullName": "King Comments"
@@ -477,7 +477,7 @@
       "name": "Levinsohns Greek New Testament Discourse Features",
       "description": "Levinsohns Greek New Testament Discourse Features",
       "version": "1.0.0",
-      "storageName": "clgntdf_levinsohns_greek_new_testament_discourse_features",
+      "storageName": "cLGNTDF",
       "code": "cLGNTDF",
       "shortName": "LGNTDF",
       "fullName": "Levinsohns Greek New Testament Discourse Features"
@@ -489,7 +489,7 @@
       "name": "Wells of Living Water Commentary",
       "description": "Wells of Living Water Commentary",
       "version": "1.0.0",
-      "storageName": "clw_wells_of_living_water_commentary",
+      "storageName": "cLW",
       "code": "cLW",
       "shortName": "LW",
       "fullName": "Wells of Living Water Commentary"
@@ -501,7 +501,7 @@
       "name": "Commentary on the Holy Scriptures",
       "description": "Commentary on the Holy Scriptures",
       "version": "1.0.0",
-      "storageName": "clange_commentary_on_the_holy_scriptures",
+      "storageName": "cLange",
       "code": "cLange",
       "shortName": "Lange",
       "fullName": "Commentary on the Holy Scriptures"
@@ -513,7 +513,7 @@
       "name": "McGarvey Commentaries",
       "description": "McGarvey Commentaries",
       "version": "1.0.0",
-      "storageName": "cmcgar_mcgarvey_commentaries",
+      "storageName": "cMCGAR",
       "code": "cMCGAR",
       "shortName": "MCGAR",
       "fullName": "McGarvey Commentaries"
@@ -525,7 +525,7 @@
       "name": "David Sterns Messanic",
       "description": "David Sterns Messanic",
       "version": "1.0.0",
-      "storageName": "cmnt_david_sterns_messanic",
+      "storageName": "cMNT",
       "code": "cMNT",
       "shortName": "MNT",
       "fullName": "David Sterns Messanic"
@@ -537,7 +537,7 @@
       "name": "Notes on the Pentateuch",
       "description": "Notes on the Pentateuch",
       "version": "1.0.0",
-      "storageName": "cmackintosh_notes_on_the_pentateuch",
+      "storageName": "cMackintosh",
       "code": "cMackintosh",
       "shortName": "Mackintosh",
       "fullName": "Notes on the Pentateuch"
@@ -549,7 +549,7 @@
       "name": "Morgan G Campbell Exposition",
       "description": "Morgan G Campbell Exposition",
       "version": "1.0.0",
-      "storageName": "cmorgan_g_campbell_morgan_g_campbell_exposition",
+      "storageName": "cMorgan_G_Campbell",
       "code": "cMorgan_G_Campbell",
       "shortName": "Morgan_G_Campbell",
       "fullName": "Morgan G Campbell Exposition"
@@ -561,7 +561,7 @@
       "name": "NT Textual Variants",
       "description": "NT Textual Variants",
       "version": "1.0.0",
-      "storageName": "cntvar_nt_textual_variants",
+      "storageName": "cNTVAR",
       "code": "cNTVAR",
       "shortName": "NTVAR",
       "fullName": "NT Textual Variants"
@@ -573,7 +573,7 @@
       "name": "Romans Verse-by-Verse",
       "description": "Romans Verse-by-Verse",
       "version": "1.0.0",
-      "storageName": "cnewell_romans_romans_verse_by_verse",
+      "storageName": "cnewell_romans",
       "code": "cNewell-Romans",
       "shortName": "Newell-Romans",
       "fullName": "Romans Verse-by-Verse"
@@ -585,7 +585,7 @@
       "name": "Overview of Bible Books",
       "description": "Overview of Bible Books",
       "version": "1.0.0",
-      "storageName": "cobb_overview_of_bible_books",
+      "storageName": "cOBB",
       "code": "cOBB",
       "shortName": "OBB",
       "fullName": "Overview of Bible Books"
@@ -597,7 +597,10 @@
       "name": "Open Scriptures Hebrew Bible",
       "description": "Open Scriptures Hebrew Bible",
       "version": "1.0.0",
-      "storageName": "coshb2_open_scriptures_hebrew_bible"
+      "storageName": "coshb2_",
+      "code": "cOSHB2+",
+      "shortName": "OSHB2+",
+      "fullName": "Open Scriptures Hebrew Bible"
     },
     {
       "id": "cphc-exell-preacher-s-complete-homiletical-commentary",
@@ -606,7 +609,7 @@
       "name": "Exell Preacher's Complete Homiletical Commentary",
       "description": "Exell Preacher's Complete Homiletical Commentary",
       "version": "1.0.0",
-      "storageName": "cphc_exell_preachers_complete_homiletical_commentary",
+      "storageName": "cPHC",
       "code": "cPHC",
       "shortName": "PHC",
       "fullName": "Exell Preacher's Complete Homiletical Commentary"
@@ -618,7 +621,7 @@
       "name": "Commentary on Book of Romans",
       "description": "Commentary on Book of Romans",
       "version": "1.0.0",
-      "storageName": "cpauline_commentary_on_book_of_romans",
+      "storageName": "cPauline",
       "code": "cPauline",
       "shortName": "Pauline",
       "fullName": "Commentary on Book of Romans"
@@ -630,7 +633,7 @@
       "name": "Peake commentary on the Bible",
       "description": "Peake commentary on the Bible",
       "version": "1.0.0",
-      "storageName": "cpeake_peake_commentary_on_the_bible",
+      "storageName": "cPeake",
       "code": "cPeake",
       "shortName": "Peake",
       "fullName": "Peake commentary on the Bible"
@@ -642,7 +645,7 @@
       "name": "English Annotations by Matthew Poole",
       "description": "English Annotations by Matthew Poole",
       "version": "1.0.0",
-      "storageName": "cpoole_english_annotations_by_matthew_poole",
+      "storageName": "cPoole",
       "code": "cPoole",
       "shortName": "Poole",
       "fullName": "English Annotations by Matthew Poole"
@@ -678,7 +681,7 @@
       "name": "Lets Revel in Romans By John G. Mitchell",
       "description": "Lets Revel in Romans By John G. Mitchell",
       "version": "1.0.0",
-      "storageName": "cromans_jgm_lets_revel_in_romans_by_john_g_mitchell",
+      "storageName": "cromans_jgm",
       "code": "cRomans-JGM",
       "shortName": "Romans-JGM",
       "fullName": "Lets Revel in Romans By John G. Mitchell"
@@ -702,7 +705,7 @@
       "name": "SBLGNT textual variants",
       "description": "SBLGNT textual variants",
       "version": "1.0.0",
-      "storageName": "csblgntvar_sblgnt_textual_variants",
+      "storageName": "cSBLGNTvar",
       "code": "cSBLGNTvar",
       "shortName": "SBLGNTvar",
       "fullName": "SBLGNT textual variants"
@@ -714,7 +717,7 @@
       "name": "Students Guide to NT",
       "description": "Students Guide to NT",
       "version": "1.0.0",
-      "storageName": "csgnt_students_guide_to_nt",
+      "storageName": "cSGNT",
       "code": "cSGNT",
       "shortName": "SGNT",
       "fullName": "Students Guide to NT"
@@ -726,7 +729,10 @@
       "name": "The Sermon Bible",
       "description": "The Sermon Bible",
       "version": "1.0.0",
-      "storageName": "csermon_bible_the_sermon_bible"
+      "storageName": "cSermon",
+      "code": "cSermon",
+      "shortName": "Sermon",
+      "fullName": "The Sermon Bible"
     },
     {
       "id": "csumm-c-summarized-bible-commentary",
@@ -735,7 +741,7 @@
       "name": "Summarized Bible Commentary",
       "description": "Summarized Bible Commentary",
       "version": "1.0.0",
-      "storageName": "csumm_c_summarized_bible_commentary",
+      "storageName": "csumm_c",
       "code": "cSumm-c",
       "shortName": "Summ-c",
       "fullName": "Summarized Bible Commentary"
@@ -759,7 +765,7 @@
       "name": "The Gospels Compared",
       "description": "The Gospels Compared",
       "version": "1.0.0",
-      "storageName": "ctgc_the_gospels_compared",
+      "storageName": "cTGC",
       "code": "cTGC",
       "shortName": "TGC",
       "fullName": "The Gospels Compared"
@@ -771,7 +777,7 @@
       "name": "Tree of Life Version",
       "description": "Tree of Life Version",
       "version": "1.0.0",
-      "storageName": "ctlv_tree_of_life_version",
+      "storageName": "cTLV",
       "code": "cTLV",
       "shortName": "TLV",
       "fullName": "Tree of Life Version"
@@ -783,7 +789,7 @@
       "name": "The Passion Translation",
       "description": "The Passion Translation",
       "version": "1.0.0",
-      "storageName": "ctpt_the_passion_translation",
+      "storageName": "cTPT",
       "code": "cTPT",
       "shortName": "TPT",
       "fullName": "The Passion Translation"
@@ -795,7 +801,7 @@
       "name": "Treasury of David",
       "description": "Treasury of David",
       "version": "1.0.0",
-      "storageName": "ctod_treasury_of_david",
+      "storageName": "cToD",
       "code": "cToD",
       "shortName": "ToD",
       "fullName": "Treasury of David"
@@ -807,7 +813,7 @@
       "name": "William Burkitts Expository Notes",
       "description": "William Burkitts Expository Notes",
       "version": "1.0.0",
-      "storageName": "cwben_william_burkitts_expository_notes",
+      "storageName": "cWBEN",
       "code": "cWBEN",
       "shortName": "WBEN",
       "fullName": "William Burkitts Expository Notes"
@@ -819,7 +825,7 @@
       "name": "Proverbs",
       "description": "Proverbs",
       "version": "1.0.0",
-      "storageName": "cwardlaw_proverbs",
+      "storageName": "cWardlaw",
       "code": "cWardlaw",
       "shortName": "Wardlaw",
       "fullName": "Proverbs"
@@ -831,7 +837,7 @@
       "name": "Romans",
       "description": "Romans",
       "version": "1.0.0",
-      "storageName": "cwesterlund_romans",
+      "storageName": "cWesterlund",
       "code": "cWesterlund",
       "shortName": "Westerlund",
       "fullName": "Romans"
@@ -843,7 +849,7 @@
       "name": "Commentary on Complete Bible",
       "description": "Commentary on Complete Bible",
       "version": "1.0.0",
-      "storageName": "cwhedon_commentary_on_complete_bible",
+      "storageName": "cWhedon",
       "code": "cWhedon",
       "shortName": "Whedon",
       "fullName": "Commentary on Complete Bible"
@@ -855,7 +861,7 @@
       "name": "Commentary by E.M. Zerr",
       "description": "Commentary by E.M. Zerr",
       "version": "1.0.0",
-      "storageName": "czerr2_commentary_by_em_zerr",
+      "storageName": "cZERR2",
       "code": "cZERR2",
       "shortName": "ZERR2",
       "fullName": "Commentary by E.M. Zerr"
