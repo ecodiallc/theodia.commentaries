@@ -1,5 +1,5 @@
 .DS_Store
-._README.md
+._*
 
 # Build artifacts (intermediate JSON files used during commentary synthesis)
 /build/

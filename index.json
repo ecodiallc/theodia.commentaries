@@ -3,18 +3,6 @@
   "updatedAt": "2026-09-25T00:00:00.000Z",
   "packages": [
     {
-      "id": "baic",
-      "type": "commentary",
-      "path": "BAIC.commentary.zip",
-      "name": "bAIC",
-      "description": "bAIC",
-      "version": "1.0.0",
-      "storageName": "bAIC",
-      "code": "bAIC",
-      "shortName": "AIC",
-      "fullName": "bAIC"
-    },
-    {
       "id": "bsummary-bible-book-summary",
       "type": "commentary",
       "path": "BSummary-Bible-Book-Summary.commentary.zip",
@@ -385,18 +373,6 @@
       "code": "cHengstenberg",
       "shortName": "Hengstenberg",
       "fullName": "Christology of the Old Testament"
-    },
-    {
-      "id": "chenry",
-      "type": "commentary",
-      "path": "CHenry.commentary.zip",
-      "name": "cHenry",
-      "description": "cHenry",
-      "version": "1.0.0",
-      "storageName": "cHenry",
-      "code": "cHenry",
-      "shortName": "Henry",
-      "fullName": "cHenry"
     },
     {
       "id": "cill-nt-illustrated-nt",
