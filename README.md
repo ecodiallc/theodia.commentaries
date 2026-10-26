@@ -72,3 +72,8 @@
 | Westerlund | Romans |
 | Whedon | Commentary on Complete Bible |
 | ZERR2 | Commentary by E.M. Zerr |
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
+
