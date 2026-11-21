@@ -20,7 +20,7 @@
       "path": "BTheodia-Theodia-Bible-Commentary.commentary.zip",
       "name": "Theodia Bible Commentary",
       "description": "AI-synthesized book commentaries",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "storageName": "bTheodia",
       "code": "bTheodia",
       "shortName": "Theodia",
