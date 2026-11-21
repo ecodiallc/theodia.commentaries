@@ -62,8 +62,10 @@ filename), `name`/`description`/`fullName`, `version`, and `code`/`shortName`/`s
 - The `packages` array is ordered by `code` (case-sensitive). Keep it that way.
 - `updatedAt` is edited by hand, not generated.
 
-`README.md`'s table is the human-facing catalog, keyed by `shortName` (two rows use `code`).
-It drifts: `cSermon` and `vAIC` currently have no row. Update it alongside `index.json`.
+`README.md`'s table is the human-facing catalog, keyed by `shortName` (the two `b*` rows use
+`code`). It is currently complete — one row per package — so keep it that way: correcting a
+label here is a real fix, not cosmetics. `Sermon Bible` was once listed as a row label
+matching no package at all, which made `cSermon` look covered when it was not.
 
 ## Adding or replacing a package
 
@@ -99,9 +101,21 @@ AI-synthesized `bSummary` and `bTheodia` packages, not distributed code. `script
 `build_bsummary.py`, with `verify_bsummary.py` asserting 66 rows, no HTML markers, and all
 12 required H2 sections per book.
 
-Both scripts resolve their output as
-`<repo-root>/BSummary-Bible-Book-Summary.commentary.zip`. `bTheodia` was packaged ad hoc and
-has no build script; regenerate it from its SQLite source rather than expecting a builder.
+`build_bsummary.py` and `verify_bsummary.py` both resolve their output as
+`<repo-root>/BSummary-Bible-Book-Summary.commentary.zip`.
+
+Two things about `bTheodia` differ from the rest of the catalog:
+
+- **It has no build script.** It was packaged by zipping its SQLite source directly, so
+  regenerating means repackaging the DB, not running `scripts/`.
+- **Its source DB is not kept in the repo.** The `bTheodia.commentary` you are handed for an
+  update is transient — package it and delete it. Before deleting, confirm the copy inside
+  the published zip is byte-identical (`shasum -a 256` both), since the zip is then the only
+  copy.
+
+When republishing an update, bump the entry's `version` in `index.json`. The installer
+refuses to overwrite an existing file, so the version is the only signal the download screen
+has; it renders "installed vX · version Y" when the two differ.
 
 ## Repo hygiene
 
