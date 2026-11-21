@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "updatedAt": "2026-11-20T00:00:00.000Z",
   "packages": [
     {
       "id": "bsummary-bible-book-summary",
@@ -13,6 +13,18 @@
       "code": "bSummary",
       "shortName": "Summary",
       "fullName": "Bible Book Summary"
+    },
+    {
+      "id": "btheodia-theodia-bible-commentary",
+      "type": "commentary",
+      "path": "BTheodia-Theodia-Bible-Commentary.commentary.zip",
+      "name": "Theodia Bible Commentary",
+      "description": "AI-synthesized book commentaries",
+      "version": "1.0.0",
+      "storageName": "bTheodia",
+      "code": "bTheodia",
+      "shortName": "Theodia",
+      "fullName": "Theodia Bible Commentary"
     },
     {
       "id": "cabc-apologists-bible-commentary",
