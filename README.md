@@ -3,6 +3,7 @@
 | Name | Description |
 | ---- | ----------- |
 | ABC  | Apologists Bible Commentary |
+| AIC  | vAIC |
 | ANF  | Allusions to the NT in the ANF |
 | ASGTNT | A Students Guide to New Testament |
 | BCW  | Bonnells Combined Word Book Commentary |
@@ -60,7 +61,7 @@
 | Romans-JGM | Lets Revel in Romans By John G. Mitchell |
 | SBLGNT-APP | SBLGNT Critical Apparatus |
 | SBLGNTvar | SBLGNT textual variants |
-| Sermon Bible | The Sermon Bible |
+| Sermon | The Sermon Bible |
 | SGNT | Students Guide to NT |
 | Summ-c | Summarized Bible Commentary |
 | Sutcliffe | A Commentary on the Old and New Testaments by Joseph Sutcliffe |
