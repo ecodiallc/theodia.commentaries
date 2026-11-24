@@ -47,7 +47,7 @@ The first character of `code`/`storageName` selects the level: `b` = book, `c` =
 `v` = verse. The app calls `getCommentaryTypeFromName`, which inspects only that first
 letter, and routes to the book- or chapter-level query accordingly. A book-level database
 named `cX` will be queried with a `Chapter` column it does not have. Currently 2 packages
-are `b`, 69 are `c`, 1 is `v`.
+are `b`, 70 are `c`, 1 is `v`.
 
 ## index.json conventions
 
