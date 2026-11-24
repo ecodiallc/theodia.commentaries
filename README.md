@@ -66,6 +66,7 @@
 | Summ-c | Summarized Bible Commentary |
 | Sutcliffe | A Commentary on the Old and New Testaments by Joseph Sutcliffe |
 | TGC  | The Gospels Compared |
+| Theodia | Theodia Bible Chapter Commentary |
 | TLV  | Tree of Life Version |
 | ToD  | Treasury of David |
 | TPT  | The Passion Translation |

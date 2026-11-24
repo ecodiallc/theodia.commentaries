@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T00:00:00.000Z",
+  "updatedAt": "2026-11-23T00:00:00.000Z",
   "packages": [
     {
       "id": "bsummary-bible-book-summary",
@@ -781,6 +781,18 @@
       "code": "cTPT",
       "shortName": "TPT",
       "fullName": "The Passion Translation"
+    },
+    {
+      "id": "ctheodia-theodia-bible-chapter-commentary",
+      "type": "commentary",
+      "path": "CTheodia-Theodia-Bible-Chapter-Commentary.commentary.zip",
+      "name": "Theodia Bible Chapter Commentary",
+      "description": "AI-synthesized chapter-by-chapter Bible commentary",
+      "version": "1.0.0",
+      "storageName": "cTheodia",
+      "code": "cTheodia",
+      "shortName": "Theodia",
+      "fullName": "Theodia Bible Chapter Commentary"
     },
     {
       "id": "ctod-treasury-of-david",
